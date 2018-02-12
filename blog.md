@@ -12,4 +12,4 @@ Etiam in eleifend nisi. Mauris aliquet in lorem in posuere. Sed dui risus, eleme
 
 <iframe style='width: 727px; height: 372px;' src='//voyant-tools.org/tool/Trends/?bins=4&corpus=66c864f30cc5c7bb0fccbfffae410a5c'></iframe>
 
-![](images/download.png)
+![](Images/download.png)
