@@ -2,10 +2,6 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in scelerisque nibh. Etiam mattis, ex ornare pulvinar consectetur, magna diam hendrerit nunc, id venenatis tellus dui nec turpis. Aliquam sem eros, tristique et semper a, aliquam vel felis. Vivamus lacus nibh, placerat nec varius eu, consequat ut enim. Ut ut porttitor lorem. Curabitur et justo nibh. Mauris euismod rhoncus velit a suscipit. Suspendisse sollicitudin aliquet elit, nec molestie lectus. Etiam vel viverra ante. Integer mollis, nulla sit amet cursus gravida, dolor eros cursus tortor, consequat vulputate ligula felis sit amet turpis. Aliquam erat volutpat. Proin dui velit, egestas sit amet condimentum et, bibendum feugiat enim. Fusce imperdiet tempor magna, quis porttitor felis aliquet nec. Praesent imperdiet felis vel metus pretium tincidunt. Nunc a est felis. Nam at quam consectetur, semper orci at, auctor sem.
 
-[3D viz](D3/index.html)
-
-<iframe style="width: 1024px; height: 768px;" src="http://bewiens.github.io/IASC-2P02/D3/index.html"></iframe?
-
 Etiam tempus ligula lacinia, sollicitudin sem vel, placerat magna. Donec blandit dapibus semper. Fusce a ornare arcu. Morbi ultricies felis ac urna mollis tincidunt efficitur a libero. Vestibulum ac leo congue, finibus enim a, porttitor nunc. Ut lorem purus, faucibus ut auctor vitae, interdum in arcu. Proin et tempor velit, nec ullamcorper ipsum. Aliquam erat volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec gravida ligula vel nisi dictum, vitae faucibus neque accumsan. Mauris mollis fermentum diam, ut dictum nisi sodales nec. Mauris mattis turpis vitae risus egestas, lobortis lacinia est commodo. Donec malesuada porta mi, eu euismod nisi laoreet lacinia. Duis convallis justo vitae velit rhoncus facilisis.
 
 Sed laoreet maximus urna. Integer fermentum, nunc euismod euismod ultrices, felis purus fringilla lectus, vitae fermentum tellus ligula porttitor mauris. In a finibus ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nisi enim, volutpat in ultricies eget, feugiat in ante. Praesent fringilla accumsan tortor, vitae venenatis lacus porta ac. Vivamus faucibus elit vitae turpis ullamcorper bibendum. Phasellus at felis scelerisque ante interdum lacinia quis ut lorem. Nam luctus nibh a elit mollis tempus. Donec porta nunc quis efficitur scelerisque. Sed vel nunc in libero eleifend sodales quis sit amet est. Duis pharetra orci vitae blandit commodo. Proin lectus velit, placerat vitae neque vitae, volutpat laoreet justo. Fusce ullamcorper id erat vitae lacinia.
@@ -14,6 +10,7 @@ Maecenas lacus nisl, hendrerit aliquet dapibus eget, consequat sed lectus. Vesti
 
 Etiam in eleifend nisi. Mauris aliquet in lorem in posuere. Sed dui risus, elementum ut maximus tincidunt, dignissim in arcu. Nam sed dolor sit amet est ultrices hendrerit. Pellentesque erat felis, tincidunt pretium mi sit amet, viverra malesuada massa. Aenean purus mi, eleifend vel leo nec, semper pharetra libero. Vivamus nec interdum libero. Etiam felis velit, porta vitae urna sagittis, scelerisque vestibulum orci. Sed facilisis metus justo, ornare porta enim sagittis eget. Quisque nec erat vitae justo condimentum pharetra ut in nibh. Vestibulum a molestie orci. Nulla pretium consectetur tincidunt.
 
-<iframe style='width: 727px; height: 372px;' src='//voyant-tools.org/tool/Trends/?bins=4&corpus=66c864f30cc5c7bb0fccbfffae410a5c'></iframe>
+![](Images/ramsayLinks.png)
 
-![](Images/download.png)
+![](Images/ramsayGraph.png)
+
