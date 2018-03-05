@@ -1,5 +1,4 @@
-# Looking into Stephen Ramsay Reading Machines: 
-# Toward an Algorithmic Criticism
+# Looking into Stephen Ramsay Reading Machines: Toward an Algorithmic Criticism
 
 
 **What is Ramsay saying? His point?**
