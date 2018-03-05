@@ -32,6 +32,7 @@ I decided to compare the terms “computer” and “literary” in the frequenc
    Literature is an artform. These programs offer up data about text patterns and word frequencies within a text. A computer algorithm cannot handle how a text is suppose to make you feel or present information on quirky writing styles. Computation text analysis is pushing literature towards a science and not recognizing it as the art it is. These algorithms can be useful in many scenarios but sometimes you just need to read without counting the words on the page.
 
 
+
 **References**
 
 Argamon, S. & Olsen, M. (2009). Digital Humanities Quarterly (Vol. 3.2). Retrieved from:
