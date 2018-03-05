@@ -17,12 +17,12 @@
    In order to provide examples of computation text analysis I created some text visualizations of Ramsay’s Reading Machines using Voyant.
 
 ![](Images/ramsayLinks.png)
-Voyant Links tool. Visualizing connections between key terms within Ramsay's *Reading Machines*.
+Voyant Links tool. Visualizing connections between key terms within Ramsay's *Reading Machines*. (Figure above)
 
 There are some points worth noting when looking at some of the key terms highlighted above. Most of the connections between terms make a lot of sense, for example “data” and “computer” as well as “text” with “analysis”.  The connection between “computer” and “literary” speak to Ramsay’s forward thinking when it comes to computational text analysis becoming more relevant in literature.
 
 ![](Images/ramsayGraph.png)
-Voyant frequency graph. Comparing the use of terms **computer** and **literary**.
+Voyant frequency graph. Comparing the use of terms **computer** and **literary**. (Figure above)
 
 I decided to compare the terms “computer” and “literary” in the frequency graph above since they appeared connected in my Voyant Links visualization. Interesting enough this connection seems irrelevant when looking at the contrasting curves on the graph above. The curves are quite opposite of each other. The terms vary in frequency and yet they are still related terms.
 
