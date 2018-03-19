@@ -9,3 +9,7 @@ Currently a student at Brock University in the Interactive Arts and Science prog
 ## Blog post
 
 A discussion on text analysis and Ramsay --> [continue reading](blog)
+
+## Solo Presentation
+
+[Click Here](https://bewiens.github.io/IASC-2P02/reveal/index.html)
