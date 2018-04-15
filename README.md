@@ -36,4 +36,4 @@ I also contributed x assets to team seen below:
 
 ## Academic Blog
 
-A discussion on text analysis and Ramsay --> [continue reading](blog)
+A discussion on text analysis and Ramsay --> [continue reading](IASC-2P02/blog.md)
