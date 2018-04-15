@@ -6,9 +6,11 @@ Currently a student at Brock University in the Interactive Arts and Science prog
 
 ![](Images/photoOfMe.png)
 
-## Featured Project: [title of project here]
+## Featured Project: Research Presentation
 
 ![](images/...)
+
+[Click Here](https://bewiens.github.io/IASC-2P02/reveal/index.html)
 
 Here are 250 words introducing this work.
 
@@ -23,9 +25,9 @@ Read [Title goes here](https://bewiens.github.io/IASC-2P02/)
 
 As a team we presented on the mapping tool StoryMapsJS. We divided up the workload evenly. I was given the task of introducing and giving a quick overview of the basics of StoryMapsJS.
 
-StoryMapJS: what I contributed to the team seen below:
+**StoryMapJS: what I contributed to the team seen below:**
 
-Project introduction/overview: 
+**Project introduction/overview:** 
 
 What are the main goals of StoryMapJS?
 
@@ -51,11 +53,6 @@ StoryMapJS funding.
 Knight Foundation, Robert R. McCormick Foundation (both associated with Northwestern University)
 
 ![](Images/...)
-
-
-## Research Presentation
-
-[Click Here](https://bewiens.github.io/IASC-2P02/reveal/index.html)
 
 ## Academic Blog
 
