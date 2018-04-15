@@ -19,13 +19,36 @@ Overall theses changes show x and y change in my thinking.
 
 Read [Title goes here](https://bewiens.github.io/IASC-2P02/)
 
-## Collabrabortive Project
+## Collabrabortive Project: StoryMapsJS
 
-Here is my 100 word project description.
+As a team we presented on the mapping tool StoryMapsJS. We divided up the workload evenly. I was given the task of introducing and giving a quick overview of the basics of StoryMapsJS.
 
-Here is my 250 word collab statement. I approach collab in x ways, which is reflected in y work [here](commit link)
+StoryMapJS: what I contributed to the team seen below:
 
-I also contributed x assets to team seen below:
+Project introduction/overview: 
+
+What are the main goals of StoryMapJS?
+
+StoryMap is essentially a mapping environment. It is a free online storytelling tool used for mapping and locating a story’s main events.
+
+What are the main features? Show us how to use the tool. 
+
+“There are a couple ways you can make a Story Map.”
+
+Maps - “Add a slide for each place in your story. Setting the location is as easy as a text search for the name, address, or latitude and longitude. You can change the visual style of your map with a few presets, or you can use Mapbox to create your own style.”
+
+Really big images - “You can tell stories with large photographs, works of art, historic maps, and other image files. Because it works best with pixel-dense files, we call these gigapixel. Setting one up requires you to host files on a web server.”
+
+Media sources - “StoryMapJS can pull in media from a variety of sources. Twitter, Flickr, YouTube, Vimeo, Vine, Dailymotion, Google Maps, Wikipedia, SoundCloud, Document Cloud and more!”
+
+Where is StoryMapJS located?
+
+Northwestern University
+“The Northwestern University Knight Lab is a team of technologists and journalists working at advancing news media innovation through exploration and experimentation.” The Knight Lab team works on StoryMap and similar online tools.
+
+StoryMapJS funding.
+
+Knight Foundation, Robert R. McCormick Foundation (both associated with Northwestern University)
 
 ![](Images/...)
 
