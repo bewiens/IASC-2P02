@@ -23,6 +23,8 @@ View [The Polyphon music box](https://bewiens.github.io/IASC-2P02/)
 
 ## Collabrabortive Project: StoryMapsJS
 
+![](Images/SMJS.png) 
+
 As a team we presented on the mapping tool StoryMapsJS. We divided up the workload evenly. I was given the task of introducing and giving a quick overview of the basics of StoryMapsJS.
 
 **StoryMapJS: what I contributed to the team seen below:**
