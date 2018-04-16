@@ -60,3 +60,12 @@ A discussion on text analysis and Ramsay --> [continue reading](https://bewiens.
 Here is how my research evolved over time. I made these changes, which you can see [here](https://github.com/bewiens/IASC-2P02/commit/10d08dee06813071489d560d07f755f0b1553f85#diff-e95c7dc8eefee7d0e25121cd7f0007ae)
 I also made changes [here](https://github.com/bewiens/IASC-2P02/commit/654fba624e495dcabd6c2015fa958715c6cd6d38#diff-e95c7dc8eefee7d0e25121cd7f0007ae)
 I also made changes [here](https://github.com/bewiens/IASC-2P02/commit/1da3439af4e5db0811cbf4a10673817e78c99e9f#diff-e95c7dc8eefee7d0e25121cd7f0007ae)
+
+
+
+## Sidenote
+
+I am well aware this final portfolio is not up to standards by any means. I struggled through this course as it is not what I am good at nor what I am interested in. This course is required for my program and was not my choice to take.
+I have provided you with the web portfolio I created for another course that includes many of my personal interests and projects. I created this website completely from scratch using HTML, CSS, and JavaScript.
+
+[My personal web portfolio](http://badger.ac.brocku.ca/~bw16vw/index.html)
