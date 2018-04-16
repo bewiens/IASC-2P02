@@ -10,7 +10,7 @@ Currently a student at Brock University in the Interactive Arts and Science prog
 
 ![](Images/box_intro_01.jpg)
 
-I made a short presentation on The Polyphon music box. This tech was current durring the late 1800's and early 1900's.
+I made a short presentation on The Polyphon music box. This tech was current durring the late 1800's and early 1900's. The Polyphon is old media/tech that has since been deemed useless that had an impact on the media and the tech we use today. It influenced the ever so popular Vinyl record players, which have held their relevancy for decades.
 
 View [The Polyphon music box](https://bewiens.github.io/IASC-2P02/reveal/index.html)
 
