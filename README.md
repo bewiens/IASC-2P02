@@ -14,6 +14,10 @@ I made a short presentation on The Polyphon music box. This tech was current dur
 
 View [The Polyphon music box](https://bewiens.github.io/IASC-2P02/reveal/index.html)
 
+Here is how my presentation evolved over time. I made these changes, which you can see [here](https://github.com/bewiens/IASC-2P02/commit/e2e959d5392e45e4e55e39bb554180150cbf13a3)
+I also made changes [here](https://github.com/bewiens/IASC-2P02/commit/f021a3dfa5e6a25557629bbe79a5a865e94dee41)
+I also made changes [here](https://github.com/bewiens/IASC-2P02/commit/f7ee0eb5153a2ae324e53b28201a8601a48dc8b8)
+
 ## Collabrabortive Project: StoryMapsJS
 
 ![](Images/SMJS.png) 
