@@ -6,11 +6,9 @@ Currently a student at Brock University in the Interactive Arts and Science prog
 
 ![](Images/photoOfMe.png)
 
-## Featured Project: The POLYPHON MUSIC BOX
+## Featured Project: The Polyphon Music Box
 
 ![](Images/box_intro_01.jpg)
-
-[Click Here](https://bewiens.github.io/IASC-2P02/reveal/index.html)
 
 Here are 250 words introducing this work.
 
@@ -19,7 +17,7 @@ I also made changes [here](https://github.com/bewiens/IASC-2P02/commit/654fba624
 I also made changes [here](https://github.com/bewiens/IASC-2P02/commit/1da3439af4e5db0811cbf4a10673817e78c99e9f#diff-e95c7dc8eefee7d0e25121cd7f0007ae)
 Overall theses changes show x and y change in my thinking.
 
-View [The Polyphon music box](https://bewiens.github.io/IASC-2P02/)
+View [The Polyphon music box](https://bewiens.github.io/IASC-2P02/reveal/index.html)
 
 ## Collabrabortive Project: StoryMapsJS
 
