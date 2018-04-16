@@ -10,11 +10,7 @@ Currently a student at Brock University in the Interactive Arts and Science prog
 
 ![](Images/box_intro_01.jpg)
 
-I made a short presentation on The Polyphon music box. This tech was current durring the late 1800's and early 1900's. 
-
-Here is how my research evolved over time. I made these changes, which you can see [here](https://github.com/bewiens/IASC-2P02/commit/10d08dee06813071489d560d07f755f0b1553f85#diff-e95c7dc8eefee7d0e25121cd7f0007ae)
-I also made changes [here](https://github.com/bewiens/IASC-2P02/commit/654fba624e495dcabd6c2015fa958715c6cd6d38#diff-e95c7dc8eefee7d0e25121cd7f0007ae)
-I also made changes [here](https://github.com/bewiens/IASC-2P02/commit/1da3439af4e5db0811cbf4a10673817e78c99e9f#diff-e95c7dc8eefee7d0e25121cd7f0007ae)
+I made a short presentation on The Polyphon music box. This tech was current durring the late 1800's and early 1900's.
 
 View [The Polyphon music box](https://bewiens.github.io/IASC-2P02/reveal/index.html)
 
@@ -56,3 +52,7 @@ Knight Foundation, Robert R. McCormick Foundation (both associated with Northwes
 ## Academic Blog
 
 A discussion on text analysis and Ramsay --> [continue reading](https://bewiens.github.io/IASC-2P02/blog.md)
+
+Here is how my research evolved over time. I made these changes, which you can see [here](https://github.com/bewiens/IASC-2P02/commit/10d08dee06813071489d560d07f755f0b1553f85#diff-e95c7dc8eefee7d0e25121cd7f0007ae)
+I also made changes [here](https://github.com/bewiens/IASC-2P02/commit/654fba624e495dcabd6c2015fa958715c6cd6d38#diff-e95c7dc8eefee7d0e25121cd7f0007ae)
+I also made changes [here](https://github.com/bewiens/IASC-2P02/commit/1da3439af4e5db0811cbf4a10673817e78c99e9f#diff-e95c7dc8eefee7d0e25121cd7f0007ae)
